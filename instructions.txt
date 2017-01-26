@@ -1,0 +1,9 @@
+a     = left
+d     = right
+space = immediate drop
+down  = speed
+
+Arun H Garimella
+201564134
+Tetris Game
+2 files: Tetris.py(executable) and Block.py
